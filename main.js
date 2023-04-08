@@ -1,7 +1,7 @@
 /* 
 The cure for insomnia 
 
-You have been having trouble sleeping. A friend reccomends you try watching the experimental film "The Cure for Insomnia" - the worlds longest film, with a run time of 87 hours. 
+You have been having trouble sleeping. A friend reccomends you try watching the experimental film "Logistics" (The Logistics Art Project: https://en.wikipedia.org/wiki/Logistics_(film) ) - the worlds longest film, with a run time of 857 hours. 
 
 You somehow obtain a copy despite the film being considered 'lost'.
 
@@ -21,16 +21,16 @@ Write a funtion to calculate how many days pass before you get through the full 
 
 7) On the nights that you do sleep, it alternates between taking 3 hours to get to sleep one night, and taking 4 hours to get to sleep the following night.
 
-8) You have five sleeping pills that will grant you instant sleep, which you take on random evenings.
+8) You have ten sleeping pills that will grant you instant sleep, which you take on random no sleep nights. 
+
+
 
 */
 
 
-
-
 //👉 Write the function your CodeWarriors will start with below here:
 
-const filmDays = function() {
+const filmNights = function() {
 
 return ;
 }
