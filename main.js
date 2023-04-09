@@ -15,22 +15,22 @@ Write a funtion to calculate how many days pass before you get through the full 
 
 4) Each night, you pick up from the point in the film where you left off.
 
-5) The first night watching the film, you manage to fall asleep after 3 hours.
+5) The first night watching the film, you manage to get 7 hours of sleep.
 
 6) On night 2, you do not sleep at all. Every second night from then on, you do not sleep at all.
 
-7) On the nights that you do sleep, it alternates between taking 3 hours to get to sleep one night, and taking 4 hours to get to sleep the following night.
+7) On the nights that you do sleep, it alternates between getting 5 hours of sleep one night, and 4 hours of sleep the following night.
 
 8) You have ten sleeping pills that will grant you instant sleep, which you take on random no sleep nights. 
 
-
+9) Display the number of nights as a whole interger, rounding upwards.
 
 */
 
 
 //👉 Write the function your CodeWarriors will start with below here:
 
-const filmNights = function() {
+export const filmNights = function() {
 
 return ;
 }
